@@ -1,3 +1,3 @@
-#!/bin/bash
-count=$(find . -mindepth 1 -maxdepth 1 | wc -l)
-echo $count
+$>./count_files.sh | cat -e
+42$
+$>
